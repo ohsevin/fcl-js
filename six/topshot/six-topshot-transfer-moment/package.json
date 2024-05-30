@@ -20,7 +20,7 @@
   "devDependencies": {
     "jest": "25.3.0",
     "jest-esm-transformer": "1.0.0",
-    "microbundle": "0.12.0-next.8"
+    "microbundle": "0.15.1"
   },
   "source": "src/six-topshot-transfer-moment.js",
   "main": "dist/six-topshot-transfer-moment.js",
