@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@onflow/types": "0.0.4",
-    "jest": "^26.6.3",
+    "jest": "^29.7.0",
     "jest-esm-transformer": "1.0.0",
     "microbundle": "^0.13.0"
   },
